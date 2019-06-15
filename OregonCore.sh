@@ -1,0 +1,1 @@
+#Script to configure oregon core on a centos server
